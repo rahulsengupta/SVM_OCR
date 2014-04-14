@@ -1,0 +1,1 @@
+This project is an implementation of a Support Vector-based classifier to perform Optical Character Recognition. The model has been implemented using the "R" statistical programming language. The project details are explained in the accompanying PowerPoint presentation file.
